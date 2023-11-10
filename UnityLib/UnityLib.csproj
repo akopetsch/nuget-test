@@ -7,7 +7,6 @@
     <Authors>YourName</Authors>
     <Company>YourCompany</Company>
     <Description>YourProjectDescription</Description>
-    <PackageTags>Tag1;Tag2</PackageTags>
   </PropertyGroup>
 
 </Project>
